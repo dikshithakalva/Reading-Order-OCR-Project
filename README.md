@@ -1,6 +1,5 @@
 # Reading-Order-OCR-Project
 
-## 📄 Overview
 This project presents a **layout-aware multilingual reading order detection system** designed for scanned documents. The system accurately reconstructs the natural human reading flow by detecting and reordering text blocks across documents written in **Telugu, Tamil, Hindi, and English**.
 
 It integrates **Tesseract OCR**, document layout analysis, and **adaptive bounding-box sorting** to significantly improve structured text extraction from complex, multi-column scanned pages.
