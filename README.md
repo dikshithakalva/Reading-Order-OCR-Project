@@ -13,8 +13,6 @@ It integrates **Tesseract OCR**, document layout analysis, and **adaptive boundi
 - ⚙️ End-to-end Python-based processing pipeline
 - 📊 Processes 1,000+ text blocks per document efficiently
 
----
-
 ## System Pipeline
 1. **Preprocessing**
    - Image normalization and enhancement
